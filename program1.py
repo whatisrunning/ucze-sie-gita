@@ -1,5 +1,6 @@
-print('xD 1')
+print('xD')
 print('xD 2')
 print('xD 3333')
 print('xD 444444444')
-print('xD 5555555555555555')
+print('xD 555555555555555')
+print('xD 666666666666666666666666')
